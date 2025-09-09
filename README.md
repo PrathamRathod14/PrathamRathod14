@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hello! I’m Pratham Rathod
 
-<!--
-**PrathamRathod14/PrathamRathod14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **full-stack developer** with expertise in **web development, database architecture,** and **intelligent systems**.  
+Currently, I am pursuing my **M.Sc. in Digital Technologies at Ostfalia University, Germany**. I have won a national hackathon, a state-level SQL competition, and participated in various other competitions, showcasing my creativity and practical problem-solving skills.   
 
-Here are some ideas to get you started:
+I am passionate about **developing smart, reliable, and user-friendly applications** that solve real-world problems efficiently. I strive to create **high-quality software solutions** that are **scalable, secure, and maintainable**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** PHP, JavaScript, Java, Python  
+**Frontend:** HTML, CSS, Bootstrap, React.js
+**Backend:** Laravel, Node.js, Express.js  
+**Databases:** MySQL, PostgreSQL, SQLite, MongoDB
+**Mobile Development:** Android (Java), Flutter  
+**Tools & Platforms:** Git, Docker, Composer, VS Code, Postman
+
+---
+
+## 📌 Featured Projects
+
+- **[AlphaChat](https://github.com/PrathamRathod14/AlphaChat)** – Real-time chat application using Python.  
+- **[PickUp-Laundry-System](https://github.com/PrathamRathod14/PickUp-Laundry-System)** – A web application built on JSP, PickUp Laundry allows customers to order laundry services.   
+- **[Budget Bunny](https://github.com/PrathamRathod14/Budget_Bunny)** – Mobile app for personal finance management, built in Flutter.  
+
+*Explore more on my [GitHub repositories](https://github.com/PrathamRathod14?tab=repositories).*
+
+---
+
+## 📈 GitHub Stats
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod14&layout=compact&theme=radical&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod14&show_icons=true&theme=radical&count_private=true" width="48%" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p float="left">
+  <a href="https://www.linkedin.com/in/prathamrathod14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.fiverr.com/prathamrathod14">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="40" />
+  </a>
+  <a href="https://medium.com/@prathamrathod14">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.quora.com/profile/Pratham-Rathod-91">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" height="40" />
+  </a>
+</p>
