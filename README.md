@@ -28,15 +28,6 @@ I am passionate about **developing smart, reliable, and user-friendly applicatio
 
 ---
 
-## 📈 GitHub Stats
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod14&layout=compact&theme=radical&hide=html,css" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod14&show_icons=true&theme=radical&count_private=true" width="48%" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p float="left">
