@@ -8,7 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Full-Stack Developer and **M.Sc. Digital Technologies candidate at Ostfalia University, Germany**. I specialize in building robust backend architectures and scalable digital solutions. My approach to engineering is centered on **clean code**, **concurrency**, and **system efficiency**.
+I’m **Pratham Rathod**, and I enjoy creating practical solutions that solves real problems.
+
+I’m pursuing a **Master’s in Digital Technologies** after completing my Bachelor’s in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software through hands-on projects, hackathons and freelancing.
 
 * 🔭 **Current Focus:** Distributed systems and AI integration.
 * 🎓 **Academic Path:** Researching advanced software paradigms and digital transformation.
