@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pratham Rathod</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Systems;Interested+in+AI+%26+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Engineer;AI%2FML+Enthusiast;Scalable+System+Designer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Pratham Rathod**, and I enjoy creating practical solutions that solves real problems.
+I'm **Pratham Rathod**, and I enjoy creating practical solutions that solves real problems.
 
-I’m pursuing a **Master’s in Digital Technologies** after completing my Bachelor’s in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software through hands-on projects, hackathons and freelancing.
+I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor's in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software systems.
 
 * 🔭 **Current Focus:** Distributed systems and AI integration.
 * 🎓 **Academic Path:** Researching advanced software paradigms and digital transformation.
@@ -46,10 +46,21 @@ I’m pursuing a **Master’s in Digital Technologies** after completing my Bach
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod14&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod14&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod14&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=0A66C2&icon_color=0A66C2&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod14&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=0A66C2&count_private=true" height="180" alt="Top Languages" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=PrathamRathod14&theme=tokyonight&hide_border=false&background=0d1117" height="180" alt="GitHub Streak" />
+
+<!-- Repository Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamRathod14&theme=tokyo-night&bg_color=0d1117&color=0A66C2&line=58a6ff&point=c9cacc&hide_border=false" alt="Contribution Graph" />
+
+</div>
 
 ---
 
