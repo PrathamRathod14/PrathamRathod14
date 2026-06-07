@@ -44,26 +44,6 @@ I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod14&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=0A66C2&icon_color=0A66C2&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod14&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=c9cacc&title_color=0A66C2&count_private=true" height="180" alt="Top Languages" />
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=PrathamRathod14&theme=tokyonight&hide_border=false&background=0d1117" height="180" alt="GitHub Streak" />
-
-<!-- Repository Stats -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamRathod14&theme=tokyo-night&bg_color=0d1117&color=0A66C2&line=58a6ff&point=c9cacc&hide_border=false" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
