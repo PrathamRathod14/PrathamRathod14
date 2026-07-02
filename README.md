@@ -27,11 +27,30 @@ I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor
 
 ## 🚀 Top Engineering Repositories
 
-### 1. [Neurocore](https://github.com/PrathamRathod14/Neurocore)
+### 1. [NeuroCore](https://github.com/PrathamRathod14/Neurocore) | *Next.js, TypeScript, Python, Docker*
 
-### 2. [Benchmarking-LLM-for-ROS-2-Architecture-Modeling](https://github.com/PrathamRathod14/Benchmarking-LLM-for-ROS-2-Architecture-Modeling)
+A cluster management and ML benchmarking dashboard for monitoring compute infrastructure and machine-learning workloads.
 
-### 3. [AlphaChat](https://github.com/PrathamRathod14/AlphaChat)
+- **Technical Achievement:** Developed a centralized dashboard that monitors compute nodes, GPU health, storage usage and training jobs through SSH-based communication.
+- **Focus:** Provides real-time training analytics, including loss, perplexity, learning rate, GPU memory usage and evaluation metrics.
+
+---
+
+### 2. [Benchmarking LLM for ROS 2 Architecture Modeling](https://github.com/PrathamRathod14/Benchmarking-LLM-for-ROS-2-Architecture-Modeling) | *Python, ROS 2, LLM Evaluation, Architecture Recovery*
+
+A research-oriented benchmarking pipeline that evaluates whether large language models can recover ROS 2 software architecture directly from source code.
+
+- **Technical Achievement:** Automated repository collection, architecture extraction, LLM evaluation, error classification and research-report generation.
+- **Focus:** Measures recovered nodes, publishers, subscribers, topics, interfaces, subsystem groupings, hallucinations and architecture verification time.
+
+---
+
+### 3. [AlphaChat](https://github.com/PrathamRathod14/AlphaChat) | *Python, AI APIs, Web Interface, Raspberry Pi*
+
+An interactive chatbot platform with console and web interfaces for real-time conversations, knowledge management and AI-powered utilities.
+
+- **Technical Achievement:** Integrated configurable Q&A management, voice interaction, image generation, web search, weather information and PDF summarization.
+- **Focus:** Designed an extensible chatbot experience for students, administrators and service providers, with optional Raspberry Pi Sense HAT integration.
 
 ---
 
