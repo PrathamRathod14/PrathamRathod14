@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Rathod</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Engineer;AI%2FML+Enthusiast;Scalable+System+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I'm **Pratham Rathod**, and I enjoy creating practical solutions that solves real problems.
 
-I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor's in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software systems.
+I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor's in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software products.
 
 * 🔭 **Current Focus:** Distributed systems and AI integration.
 * 🎓 **Academic Path:** Researching advanced software paradigms and digital transformation.
@@ -27,20 +27,11 @@ I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor
 
 ## 🚀 Top Engineering Repositories
 
-### 1. [AlphaChat](https://github.com/PrathamRathod14/AlphaChat) | *Python, Sockets, Multi-threading*
-**A high-concurrency real-time messaging engine.**
-* **Technical Achievement:** Engineered a custom communication protocol using low-level socket programming.
-* **Architecture:** Implemented multi-threaded message handling to ensure a non-blocking UI and low-latency data transmission for multiple concurrent users.
+### 1. [Neurocore](https://github.com/PrathamRathod14/Neurocore)
 
-### 2. [Budget Bunny](https://github.com/PrathamRathod14/Budget_Bunny) | *Flutter, Firebase, State Management*
-**Full-stack mobile application for financial tracking.**
-* **Technical Achievement:** Developed a clean, reactive UI with robust state management.
-* **Focus:** Optimized for local data persistence and offline-first functionality, ensuring a seamless user experience regardless of connectivity.
+### 2. [Benchmarking-LLM-for-ROS-2-Architecture-Modeling](https://github.com/PrathamRathod14/Benchmarking-LLM-for-ROS-2-Architecture-Modeling)
 
-### 3. [PickUp Laundry System](https://github.com/PrathamRathod14/PickUp-Laundry-System) | *Web Ecosystem, Database Design*
-**End-to-end management system for service-based workflows.**
-* **Technical Achievement:** Modeled complex real-world business logic into a structured CRUD application.
-* **Focus:** Designed a secure user authentication flow and efficient relational database schema to handle order lifecycles.
+### 3. [AlphaChat](https://github.com/PrathamRathod14/AlphaChat)
 
 ---
 
