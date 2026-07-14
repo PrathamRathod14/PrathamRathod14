@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Rathod</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused+Engineer;AI%2FML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Focused+Engineer;Open-Source+Contributor;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I'm **Pratham Rathod**, and I enjoy creating practical solutions that solves real problems.
 
-I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor's in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software products.
+I'm pursuing a **Master's in Digital Technologies** after completing my Bachelor's in Computer Applications, with interests in backend development, AI/ML, databases, and building real-world software systems.
 
 * 🔭 **Current Focus:** Distributed systems and AI integration.
 * 🎓 **Academic Path:** Researching advanced software paradigms and digital transformation.
